@@ -1,0 +1,2 @@
+Cara menggunakan: 
+Open run.html in Chrome and click "here we go"
